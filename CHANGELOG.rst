@@ -2,6 +2,11 @@
 Changelog for package mola_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.2 (2024-08-09)
+------------------
+* Fix ament_xmllint warnings
+* Contributors: Jose Luis Blanco-Claraco
+
 0.3.1 (2024-04-30)
 ------------------
 * Bump cmake_minimum_required to 3.5
