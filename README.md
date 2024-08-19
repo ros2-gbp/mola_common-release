@@ -1,3 +1,26 @@
+## mola_common (jazzy) - 0.4.0-1
+
+The packages in the `mola_common` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release -y -r jazzy mola_common` on `Mon, 19 Aug 2024 22:32:24 -0000`
+
+The `mola_common` package was released.
+
+Version of package(s) in repository `mola_common`:
+
+- upstream repository: https://github.com/MOLAorg/mola_common.git
+- release repository: https://github.com/ros2-gbp/mola_common-release.git
+- rosdistro version: `0.3.2-1`
+- old version: `0.3.2-1`
+- new version: `0.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## mola_common (iron) - 0.4.0-1
 
 The packages in the `mola_common` repository were released into the `iron` distro by running `/usr/bin/bloom-release -y -r iron mola_common` on `Mon, 19 Aug 2024 22:29:06 -0000`
