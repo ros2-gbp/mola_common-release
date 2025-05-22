@@ -1,3 +1,26 @@
+## mola_common (kilted) - 0.4.1-1
+
+The packages in the `mola_common` repository were released into the `kilted` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -r kilted -y mola_common` on `Thu, 22 May 2025 20:26:21 -0000`
+
+The `mola_common` package was released.
+
+Version of package(s) in repository `mola_common`:
+
+- upstream repository: https://github.com/MOLAorg/mola_common.git
+- release repository: https://github.com/ros2-gbp/mola_common-release.git
+- rosdistro version: `0.4.0-2`
+- old version: `0.4.0-2`
+- new version: `0.4.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## mola_common (jazzy) - 0.4.1-1
 
 The packages in the `mola_common` repository were released into the `jazzy` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -r jazzy -y mola_common` on `Thu, 22 May 2025 20:23:54 -0000`
