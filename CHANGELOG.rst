@@ -2,6 +2,14 @@
 Changelog for package mola_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.0 (2025-08-28)
+------------------
+* FIX: auto-created foo_version.cmake file now uses the caller's version from package.xml instead of mola_common version
+* Update ROS badges in README
+* cmake: fix correct cmake silent warnings of non-used variables
+* silent cmake warning on unused CMAKE_EXPORT_COMPILE_COMMANDS (cmake-only pkg)
+* Contributors: Jose Luis Blanco-Claraco
+
 0.4.1 (2025-05-22)
 ------------------
 * add mola_version_to_hexadecimal() to mola_cmake_functions (and fix tab formatting)
