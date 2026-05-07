@@ -1,3 +1,26 @@
+## mola_common (lyrical) - 0.5.3-1
+
+The packages in the `mola_common` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release -r lyrical -y mola_common` on `Thu, 07 May 2026 08:36:22 -0000`
+
+The `mola_common` package was released.
+
+Version of package(s) in repository `mola_common`:
+
+- upstream repository: https://github.com/MOLAorg/mola_common.git
+- release repository: https://github.com/ros2-gbp/mola_common-release.git
+- rosdistro version: `0.5.2-3`
+- old version: `0.5.2-3`
+- new version: `0.5.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## mola_common (rolling) - 0.5.2-1
 
 The packages in the `mola_common` repository were released into the `rolling` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -y -r rolling mola_common` on `Tue, 21 Oct 2025 08:25:24 -0000`
