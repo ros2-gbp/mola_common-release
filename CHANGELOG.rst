@@ -2,6 +2,11 @@
 Changelog for package mola_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.0 (2026-05-10)
+------------------
+* Detect and use ccache if found
+* Contributors: Jose Luis Blanco-Claraco
+
 0.5.3 (2026-05-07)
 ------------------
 * bump min required cmake version to 3.22
