@@ -1,3 +1,26 @@
+## mola_common (humble) - 0.6.0-2
+
+The packages in the `mola_common` repository were released into the `humble` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -y -r humble mola_common` on `Mon, 11 May 2026 18:20:46 -0000`
+
+The `mola_common` package was released.
+
+Version of package(s) in repository `mola_common`:
+
+- upstream repository: https://github.com/MOLAorg/mola_common.git
+- release repository: https://github.com/ros2-gbp/mola_common-release.git
+- rosdistro version: `0.5.2-1`
+- old version: `0.6.0-1`
+- new version: `0.6.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.14.3`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## mola_common (rolling) - 0.6.0-1
 
 The packages in the `mola_common` repository were released into the `rolling` distro by running `/home/jlblanco/code/bloom-venv/bin/bloom-release -y -r rolling mola_common` on `Sun, 10 May 2026 13:56:46 -0000`
